@@ -8,4 +8,7 @@
     font-weight: bold;
     text-transform: uppercase;
     padding: 30px 40px 30px 40px;
+
+body {
+    background-color: aqua;
 }
