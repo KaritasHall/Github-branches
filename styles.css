@@ -1,14 +1,15 @@
 .button {
-    background-color: yellow;
-    border: 2px solid black;
-    border-radius: 0px;
-    color: black;
-    font-size: 24px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: bold;
-    text-transform: uppercase;
-    padding: 30px 40px 30px 40px;
+  background-color: yellow;
+  border: 2px solid black;
+  border-radius: 0px;
+  color: black;
+  font-size: 24px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 30px 40px 30px 40px;
+}
 
-body {
-    background-color: aqua;
+.body {
+  background-color: aqua;
 }
