@@ -1,4 +1,4 @@
-.button {
+button {
   background-color: yellow;
   border: 2px solid black;
   border-radius: 0px;
@@ -10,6 +10,6 @@
   padding: 30px 40px 30px 40px;
 }
 
-.body {
+body {
   background-color: aqua;
 }
